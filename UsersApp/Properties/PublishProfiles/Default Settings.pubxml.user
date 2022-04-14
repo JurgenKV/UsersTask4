@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется процессом публикации или упаковки вашего веб-проекта. Можно настроить поведение этого процесса,
+изменив этот файл MSBuild. Подробности см. на странице https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABiv7AuWmEEOk1tBESD51wgAAAAACAAAAAAAQZgAAAAEAACAAAACI9gRxDdT/cXchlP3X9HIe0y/p5eMb7jL/kzOj/hAJrAAAAAAOgAAAAAIAACAAAAA3NdWqc7SRwN6aBN8IZZrdMjnOuWTrTvVJpARp7DCeKiAAAAA+K9bimPcOGFLNiXw2KLkHQzEG71PSuQefzqYdrEnqiUAAAADQ2EPZtUCPmwMTn+ynS/zEDL50vLy7/kTiZJGMCbeQrAgUQ1QxUZTImqIZ4CHQQGjm0Thcf67J6cZtgPMAvaC5</EncryptedPassword>
+    <History>True|2022-04-14T11:06:23.8258735Z;True|2022-04-14T13:47:06.0616397+03:00;False|2022-04-14T13:46:46.4699021+03:00;False|2022-04-14T13:46:12.2331627+03:00;True|2022-04-14T13:44:37.9757688+03:00;False|2022-04-14T13:42:58.3717087+03:00;True|2022-04-14T13:40:42.0351386+03:00;True|2022-04-14T13:27:40.6578049+03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=SQL8001.site4now.net%3bInitial Catalog=db_a85832_userapp%3bUser Id=db_a85832_userapp_admin%3bPassword=SK2506tutpas</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
